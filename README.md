@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/images/Capture1.png)
-![](./assets/images/Capture2.png)
+![](./assets/images/capture1.png)
+![](./assets/images/capture2.png)
 
 
 ### Links
