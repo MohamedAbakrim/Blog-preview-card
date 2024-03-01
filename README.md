@@ -42,4 +42,4 @@ Users should be able to:
 ## Author
 
 - Website - [Abakrim Mohamed](https://github.com/MohamedAbakrim)
-- Frontend Mentor - [@MohamedAbakrim](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@MohamedAbakrim](https://www.frontendmentor.io/profile/MohamedAbakrim)
