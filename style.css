@@ -34,7 +34,12 @@ body .parent button{
     width:fit-content;
     padding:7px 12px;
     font-weight:800;
-    cursor: pointer;
+    transition: all .3s ease;
+}
+body .parent button:hover{
+    background-color: hsl(0, 0%, 7%);
+    color:white;
+    cursor:pointer;
 }
 body .parent p{
     font-size: 16px;
@@ -66,3 +71,13 @@ body .parent .avatar img{
 body .parent .avatar p{
     font-weight: 800;
 }
+
+
+@media only screen and (max-width: 700px) {
+    body{
+        margin:20px;
+    }
+    body .parent{
+      width:100%;
+    }
+  }
